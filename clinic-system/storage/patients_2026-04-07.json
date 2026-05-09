@@ -1,0 +1,28 @@
+[
+    {
+        "id": "PTF4C8B802",
+        "patient_name": "Jowie",
+        "email": "jowie@gmail.com",
+        "nin": "CF10000028HJ",
+        "problem": "Malaria",
+        "start_date": "2026-04-07",
+        "symptoms": "Headache and high temperature",
+        "status": "in progress",
+        "doctor_notes": "",
+        "registered_by": "Shelvin Joel",
+        "created_at": "2026-04-07 00:10:20"
+    },
+    {
+        "id": "PTFE493CB3",
+        "patient_name": "Malubya Zacc",
+        "email": "malubya@gmail.com",
+        "nin": "CM 726227288HGJ",
+        "problem": "Headache",
+        "start_date": "2026-04-07",
+        "symptoms": "High temprature and pain",
+        "status": "in progress",
+        "doctor_notes": "",
+        "registered_by": "Shelvin Joel",
+        "created_at": "2026-04-07 00:12:52"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "USRCE261A",
+        "name": "LIKY CODER",
+        "email": "doctor@clinic.com",
+        "password": "$2y$10$EZw7rVj36tqKDq1yqsP\/rOgj75RGR60WmCMtNEBgiQ95hW5GF6HyO",
+        "role": "doctor",
+        "created_at": "2026-04-07 00:07:56"
+    },
+    {
+        "id": "USR9E8650",
+        "name": "Shelvin Joel",
+        "email": "staff@clinic.com",
+        "password": "$2y$10$jLjjeYoe2oDLUcDy52PfMOpE2fheQytc51w\/H8fBswx85mWb370LC",
+        "role": "staff",
+        "created_at": "2026-04-07 00:08:26"
+    }
+]
